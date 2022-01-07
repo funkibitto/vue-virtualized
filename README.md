@@ -1,3 +1,6 @@
+## Quick Play
+<img src="https://user-images.githubusercontent.com/841457/148489820-5f7d4a15-2ebf-446a-8d7b-ce7fe8348d88.gif" />
+
 ## Getting started
 
 Install `vue-list-virtualized` using npm.
